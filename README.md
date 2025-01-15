@@ -2,6 +2,13 @@
 
 Welcome to Business Insights 360, a comprehensive Power BI project designed to showcase the transformative power of advanced data analytics and visualization. This project demonstrates how businesses like AtliQ Hardware can transition from traditional data analysis methods to modern business intelligence tools to enable data-driven decision-making and achieve operational excellence.
 
+Explore the live, interactive version of the dashboard:
+[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGY1ZDA2NzUtODVkMy00YzY0LTgzOTAtMGU1YjdhNTQ0MjE2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection0e765c0061580b067c73
+)
+
+Watch the detailed walkthrough of the Business Insights 360 project on YouTube:
+[YouTube Video](https://youtu.be/AFx_TxerlKw)
+
 # Project Overview
 
 AtliQ Hardware, a company operating in Latin America, faced challenges in managing and analyzing data using outdated tools like Excel. Recognizing the need for better insights and efficient data management, the company adopted Power BI to unlock actionable insights and drive strategic growth.
